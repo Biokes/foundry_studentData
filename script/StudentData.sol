@@ -12,8 +12,7 @@ contract CounterScript is Script {
     function run() public {
         vm.startBroadcast();
 
-        counter = new StudentData();
-
+        counter = new StudentData("name", 20);
         vm.stopBroadcast();
     }
 }
