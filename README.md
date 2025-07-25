@@ -64,3 +64,6 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+contract address `0x9Da4195efB3F0DA96A22eEf5e7a24Cd71B968b2E`
+Chain: MonadTestnet
+Tx hash = `0x3d19afc40d1b9df4ce0238609ef97efe6869ac0fee95aa97f0e39628e9d3c7d0`
